@@ -15,6 +15,11 @@ h2 {
   color: white;
 }
 
+p{
+  font-size: 21px;
+  color: gray;
+}
+
 .link {
   color: Aquamarine;
   font-size: 16px;
